@@ -144,7 +144,7 @@ try
         mem_cue = [1,2]; %1 = S1, 2 = S2
         %mem_disc_distance=[-72:18:-18,18:18:90];
         mem_disc_distance=[-60 -30 30 60 90]; % possible offsets when congruent??
-        %for incong condition, mem-disc distance +/-18, +/-36, +/-54, +/-72,90
+       
         
         contrast_cond = [0.8]; % contrast levels for the discriminandum
         ori_labels = 1:6; % counterbalance all orientation type per block
